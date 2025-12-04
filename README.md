@@ -4,6 +4,10 @@ This repository contains the solution for **Assignment 1** of the NLP course. Th
 
 **Credits:** Federico Ruggeri, Eleonora Mancini, Paolo Torroni
 
+## 👥 Authors
+* **Omid Nejati**
+* **Alireza Shahidiani**
+
 ##  Project Overview
 
 The goal is to classify English tweets into one of four categories based on the author's intention regarding sexism. Unlike simple binary classification, this task distinguishes between direct sexism, reporting sexism, and judging sexism.
